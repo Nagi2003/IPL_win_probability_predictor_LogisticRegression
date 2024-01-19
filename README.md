@@ -1,1 +1,1 @@
-# IPL_WIN_PROBABILITY_PREDICTION_LOGISTICREGRESSION
+# IPL_Win_Probability_Prediction_LogisticRegression
